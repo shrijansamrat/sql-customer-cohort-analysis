@@ -109,7 +109,8 @@ The results were visualized using a **cohort heatmap**.
 
 # Cohort Retention Heatmap
 
-(Add heatmap image here)
+
+![Cohort Heatmap](Screenshot%202026-03-05%20190053.png)
 
 ---
 
